@@ -15,7 +15,7 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: 'purchase-app',
-            template: "\n    <div>\n      <p>\u041A\u0430\u0440\u0442\u0430 Yandex</p>\n    </div"
+            template: '<h1>Hello World</h1>'
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);
