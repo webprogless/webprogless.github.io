@@ -3,9 +3,7 @@ import { Component } from '@angular/core';
 @Component({
     selector: 'purchase-app',
     template: `
-    <div>
-      <p>Карта Yandex</p>
-    </div`
+    <h1>Hello World</h1>`
 }
 )
 export class AppComponent {}
